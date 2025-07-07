@@ -10,7 +10,7 @@ It includes:
 
 ## 📁 Folder Structure
 
-- `Tutorials/` – Java programs based on DSA concepts like arrays, recursion, OOPs, etc.
+- `Concepts/` – Java programs based on DSA concepts like arrays, recursion, OOPs, etc.
 - `LeetCode/` – LeetCode problem solutions organized by topic and difficulty
 
 ## 💻 Language
